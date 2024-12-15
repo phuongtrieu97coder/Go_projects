@@ -1,4 +1,5 @@
-<img src="https://github.com/phuongtrieu97coder/Readme_Content_Structure/assets/82598726/7e4ee0f6-caa3-45ee-8de2-33b40e93d3c1" alt="golang" width="60px" height="40px">
+![image](https://github.com/user-attachments/assets/0dc355a9-2730-4226-8cd7-11f5ddcc8ef7)
+
 
 ![image](https://github.com/phuongtrieu97coder/Go_projects/assets/82598726/6fe9f9cc-6bd2-48ff-b049-1df2278870e5)
 
